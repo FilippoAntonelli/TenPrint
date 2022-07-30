@@ -4,7 +4,8 @@ A python reproduction of the 10 PRINT Commodore64 algorithm with fancy animation
 This is the original algorithm:<br />
 #10 PRINT CHR$(205.5+RND(1)); : GOTO 10<br />
 It generates a pattern that resemble a maze, using a single line of code.<br />
-In a rainy boring day I made a simple reproduction of this algorithm using Python and OpenCV. The animations were realized from scratch, and can surely be improved.
+In a rainy boring day I made a simple reproduction of this algorithm using Python and OpenCV. The animations were realized from scratch, and can surely be improved.<br />
+Here you can find a crappy video made recording the screen during the execution of the code: https://www.youtube.com/watch?v=KhtecsSkdKU&ab_channel=FilippoAntonelli
 
 A short list of the realized animations:
 - **rotate**: rotates each segment of the maze by the given angle; it includes a step parameter, used for defining how many degrees to rotate in each frame
