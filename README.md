@@ -13,6 +13,7 @@ A short list of the realized animations:
 - **strobe**: rapidly inverts the colors, producing a strobe effect; the reps parameter defines how many times the colours need to be inverted
 - **wave**: a wave that crosses the maze from top to bottom; the step parameter allows to define the wave size and sharpeness
 - **vibrate**: all the segments are rotated in both directions, producing a vibration animation; the intensity parameter defines how strong the vibration is
+![image](Maze.png)
 
 Hope that you like my project :)
 Have a cup of coffee and relax in front of your screen!
